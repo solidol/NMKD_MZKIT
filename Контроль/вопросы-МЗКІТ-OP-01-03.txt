@@ -1,0 +1,139 @@
+// question: 0  name: Switch category to $course$/top/OP-01-03
+$CATEGORY: $course$/top/OP-01-03
+
+
+// question: 11987  name: op-01-03-01
+::op-01-03-01::[html]<p>Оберіть корректні значення атрибуту <code>type</code> тегу &lt;input&gt; </p>{
+	~%25%text
+	~%25%button
+	~%25%reset
+	~%25%file
+}
+
+
+// question: 11988  name: op-01-03-02
+::op-01-03-02::[html]<p>Оберіть корректні значення атрибуту <code>type</code> тегу &lt;input&gt; </p>{
+	~%25%date
+	~%25%submit
+	~%25%reset
+	~%25%file
+}
+
+
+// question: 11989  name: op-01-03-03
+::op-01-03-03::[html]<p>Оберіть корректні значення атрибуту <code>type</code> тегу &lt;input&gt; </p>{
+	~%33.33333%text
+	~%33.33333%password
+	~%33.33333%submit
+	~%-80%clear
+}
+
+
+// question: 11990  name: op-01-03-04
+::op-01-03-04::[html]<p>Оберіть корректні значення атрибуту <code>type</code> тегу &lt;input&gt; </p>{
+	~%33.33333%reset
+	~%33.33333%image
+	~%33.33333%submit
+	~%-80%clear
+}
+
+
+// question: 11991  name: op-01-03-05
+::op-01-03-05::[html]<p>Оберіть корректні значення атрибуту <code>type</code> тегу &lt;input&gt; </p>{
+	~%50%reset
+	~%50%image
+	~%-40%flush
+	~%-40%colorpicker
+}
+
+
+// question: 11992  name: op-01-03-06
+::op-01-03-06::[html]<p>Оберіть корректні значення атрибуту <code>type</code> тегу &lt;input&gt; </p>{
+	~%50%date
+	~%50%image
+	~%-40%flush
+	~%-40%datepicker
+}
+
+
+// question: 11993  name: op-01-03-07
+::op-01-03-07::[html]<p>Оберіть блочні теги</p>{
+	~%50%&lt;h1&gt;
+	~%50%&lt;p&gt;
+	~%-40%&lt;a&gt;
+	~%-40%&lt;input&gt;
+}
+
+
+// question: 11994  name: op-01-03-08
+::op-01-03-08::[html]<p>Оберіть блочні теги</p>{
+	~%50%&lt;h2&gt;
+	~%50%&lt;header&gt;
+	~%-40%&lt;i&gt;
+	~%-40%&lt;b&gt;
+}
+
+
+// question: 11995  name: op-01-03-09
+::op-01-03-09::[html]<p>Оберіть блочні теги</p>{
+	~%33.33333%&lt;h2&gt;
+	~%33.33333%&lt;header&gt;
+	~%33.33333%&lt;p&gt
+	~%-80%&lt;head&gt;
+}
+
+
+// question: 11996  name: op-01-03-10
+::op-01-03-10::[html]<p>Оберіть блочні теги</p>{
+	~%33.33333%&lt;h2&gt;
+	~%33.33333%&lt;section&gt;
+	~%33.33333%&lt;ol&gt
+	~%-80%&lt;strong&gt;
+}
+
+
+// question: 11997  name: op-01-03-11
+::op-01-03-11::[html]<p>Оберіть теги, які відповідають за напівжирний текст</p>{
+	~%50%&lt;b&gt;
+	~%50%&lt;strong&gt;
+	~%-40%&lt;i&gt;
+	~%-40%&lt;bold&gt;
+}
+
+
+// question: 11998  name: op-01-03-12
+::op-01-03-12::[html]<p>Оберіть теги, які відповідають за напівжирний текст</p>{
+	~%50%&lt;b&gt;
+	~%50%&lt;strong&gt;
+	~%-40%&lt;span&gt;
+	~%-40%&lt;div&gt;
+}
+
+
+// question: 11999  name: op-01-03-14
+::op-01-03-14::[html]<p>Оберіть теги заголовків, які існують</p>{
+	~%50%&lt;h1&gt;
+	~%50%&lt;h5&gt;
+	~%-40%&lt;h0&gt;
+	~%-40%&lt;h8&gt;
+}
+
+
+// question: 12000  name: op-01-03-15
+::op-01-03-15::[html]<p>Оберіть теги заголовків, яких не існує</p>{
+	~%50%&lt;h0&gt;
+	~%50%&lt;h8&gt;
+	~%-40%&lt;h2&gt;
+	~%-40%&lt;h1&gt;
+}
+
+
+// question: 12001  name: op-01-03-16
+::op-01-03-16::[html]<p>Оберіть теги заголовків, яких не існує</p>{
+	~%50%&lt;h9&gt;
+	~%50%&lt;h8&gt;
+	~%-40%&lt;h2&gt;
+	~%-40%&lt;h1&gt;
+}
+
+

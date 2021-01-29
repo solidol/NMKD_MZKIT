@@ -1,0 +1,88 @@
+// question: 0  name: Switch category to $course$/top/OP-01-01
+$CATEGORY: $course$/top/OP-01-01
+
+
+// question: 11946  name: op-01-01-01
+::op-01-01-01::[html]<p>Веб-сервер - це програма</p>{TRUE}
+
+
+// question: 11947  name: op-01-01-02
+::op-01-01-02::[html]<p>Веб-сервер - це комп&\#39;ютер в мережі</p>{TRUE}
+
+
+// question: 11948  name: op-01-01-03
+::op-01-01-03::[html]<p>HTML - це мова програмування</p>{FALSE}
+
+
+// question: 11949  name: op-01-01-04
+::op-01-01-04::[html]<p>За допомогою HTML створюються статичні веб-сторінки</p>{TRUE}
+
+
+// question: 11950  name: op-01-01-05
+::op-01-01-05::[html]<p>Validator W3C - це веб-сервіс для перевірки коректності HTML-коду </p>{TRUE}
+
+
+// question: 11951  name: op-01-01-06
+::op-01-01-06::[html]<p>Validator W3C - це веб-сервіс для перевірки коректності JavaScript-коду</p>{FALSE}
+
+
+// question: 11952  name: op-01-01-07
+::op-01-01-07::[html]<p>&lt;a href\=&quot;...&quot;&gt;...&lt;/a&gt; - це блочний тег</p>{FALSE}
+
+
+// question: 11953  name: op-01-01-08
+::op-01-01-08::[html]<p>&lt;i&gt;...&lt;/i&gt; - це блочний тег</p>{FALSE}
+
+
+// question: 11954  name: op-01-01-09
+::op-01-01-09::[html]<p>&lt;p&gt;...&lt;/p&gt; - це блочний тег</p>{TRUE}
+
+
+// question: 11955  name: op-01-01-10
+::op-01-01-10::[html]<p>&lt;h1&gt;...&lt;/h1&gt; - це рядковий тег</p>{FALSE}
+
+
+// question: 11956  name: op-01-01-11
+::op-01-01-11::[html]<p>&lt;h2&gt;...&lt;/h2&gt; - це рядковий тег</p>{FALSE}
+
+
+// question: 11957  name: op-01-01-12
+::op-01-01-12::[html]<p>&lt;section&gt;...&lt;/section&gt; - це новий тег HTML5</p>{TRUE}
+
+
+// question: 11958  name: op-01-01-13
+::op-01-01-13::[html]<p>&lt;aside&gt;...&lt;/aside&gt; - це новий тег HTML5</p>{TRUE}
+
+
+// question: 11959  name: op-01-01-14
+::op-01-01-14::[html]<p>HTML це - мова розмітки гіпертексту</p>{TRUE}
+
+
+// question: 11960  name: op-01-01-15
+::op-01-01-15::[html]<p>HTML-сторінки передаються за допомогою протоколу HTTP (HTTPS)</p>{TRUE}
+
+
+// question: 11961  name: op-01-01-16
+::op-01-01-16::[html]<p>HTML-сторінки передаються за допомогою протоколу FTP (FTPS)</p>{FALSE}
+
+
+// question: 11962  name: op-01-01-17
+::op-01-01-17::[html]<p>&lt;h1&gt;...&lt;/h1&gt; - тег заголовку першого рівня</p>{TRUE}
+
+
+// question: 11963  name: op-01-01-18
+::op-01-01-18::[html]<p>&lt;h0&gt;...&lt;/h0&gt; - тег заголовку найвищого рівня</p>{FALSE}
+
+
+// question: 11964  name: op-01-01-19
+::op-01-01-19::[html]<p>&lt;section&gt;...&lt;/section&gt; - тег абзацу</p>{FALSE}
+
+
+// question: 11965  name: op-01-01-20
+::op-01-01-20::[html]<p>&lt;header&gt;...&lt;/header&gt; - контейнер, що містить додаткову інформацію про сторінку, яка не відображається </p>{FALSE}
+
+
+// question: 11966  name: op-01-01-21
+::op-01-01-21::[html]<p>&lt;head&gt;...&lt;/head&gt; - контейнер, що містить додаткову інформацію про сторінку, яка не відображається </p>{TRUE}
+
+

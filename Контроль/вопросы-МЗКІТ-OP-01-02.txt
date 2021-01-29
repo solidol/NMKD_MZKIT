@@ -1,0 +1,184 @@
+// question: 0  name: Switch category to $course$/top/OP-01-02
+$CATEGORY: $course$/top/OP-01-02
+
+
+// question: 11967  name: op-01-02-01
+::op-01-02-01::[html]<p>Виберіть тег, який відповідає специфікації HTML5 та не визначений для версій старіших за 4.01</p>{
+	=&lt;section&gt;
+	~&lt;p&gt;
+	~&lt;h1&gt;
+	~&lt;a&gt;
+}
+
+
+// question: 11968  name: op-01-02-02
+::op-01-02-02::[html]<p>Виберіть тег, який відповідає специфікації HTML5 та не визначений для версій старіших за 4.01</p>{
+	=&lt;nav&gt;
+	~&lt;font&gt;
+	~&lt;h1&gt;
+	~&lt;a&gt;
+}
+
+
+// question: 11969  name: op-01-02-03
+::op-01-02-03::[html]<p>Виберіть тег, який відповідає специфікації HTML5 та не визначений для версій старіших за 4.01</p>{
+	=&lt;video&gt;
+	~&lt;table&gt;
+	~&lt;br&gt;
+	~&lt;a&gt;
+}
+
+
+// question: 11970  name: op-01-02-04
+::op-01-02-04::[html]<p>Виберіть тег, який відповідає специфікації HTML5 та не визначений для версій старіших за 4.01</p>{
+	=&lt;article&gt;
+	~&lt;table&gt;
+	~&lt;br&gt;
+	~&lt;abbr&gt;
+}
+
+
+// question: 11971  name: op-01-02-05
+::op-01-02-05::[html]<p>Виберіть тег, який відповідає специфікації HTML5 та не визначений для версій старіших за 4.01</p>{
+	=&lt;header&gt;
+	~&lt;table&gt;
+	~&lt;head&gt;
+	~&lt;abbr&gt;
+}
+
+
+// question: 11972  name: op-01-02-06
+::op-01-02-06::[html]<p>Виберіть тег, який відповідає специфікації HTML5 та не визначений для версій старіших за 4.01</p>{
+	=&lt;footer&gt;
+	~&lt;iframe&gt;
+	~&lt;head&gt;
+	~&lt;abbr&gt;
+}
+
+
+// question: 11973  name: op-01-02-07
+::op-01-02-07::[html]<p>Виберіть тег, якого не існує у специфікації HTML5</p>{
+	=&lt;border&gt;
+	~&lt;iframe&gt;
+	~&lt;head&gt;
+	~&lt;abbr&gt;
+}
+
+
+// question: 11974  name: op-01-02-08
+::op-01-02-08::[html]<p>Виберіть тег, якого не існує у специфікації HTML5</p>{
+	=&lt;order&gt;
+	~&lt;body&gt;
+	~&lt;head&gt;
+	~&lt;abbr&gt;
+}
+
+
+// question: 11975  name: op-01-02-09
+::op-01-02-09::[html]<p>Виберіть тег, якого не існує у специфікації HTML5</p>{
+	=&lt;side&gt;
+	~&lt;body&gt;
+	~&lt;head&gt;
+	~&lt;iframe&gt;
+}
+
+
+// question: 11976  name: op-01-02-10
+::op-01-02-10::[html]<p>Виберіть тег, якого не існує у специфікації HTML5</p>{
+	=&lt;fig&gt;
+	~&lt;body&gt;
+	~&lt;head&gt;
+	~&lt;canvas&gt;
+}
+
+
+// question: 11977  name: op-01-02-11
+::op-01-02-11::[html]<p>Виберіть значення атрибуту <code>type</code> тегу &lt;input&gt;, що відповідає за створення кнопки відправки форми</p>{
+	=submit
+	~button
+	~reset
+	~send
+}
+
+
+// question: 11978  name: op-01-02-12
+::op-01-02-12::[html]<p>Виберіть значення атрибуту <code>type</code> тегу &lt;input&gt;, що відповідає за створення кнопки відправки форми</p>{
+	=submit
+	~flush
+	~post
+	~send
+}
+
+
+// question: 11979  name: op-01-02-13
+::op-01-02-13::[html]<p>Виберіть HTTP-метод, який відправляє дані форми у рядку запиту</p>{
+	=GET
+	~POST
+	~PUSH
+	~SEND
+}
+
+
+// question: 11980  name: op-01-02-14
+::op-01-02-14::[html]<p>Виберіть HTTP-метод, який відправляє дані форми у рядку запиту</p>{
+	=GET
+	~POST
+	~DELETE
+	~SEND
+}
+
+
+// question: 11981  name: op-01-02-15
+::op-01-02-15::[html]<p>Виберіть HTTP-метод, який відправляє дані форми у рядку запиту</p>{
+	=GET
+	~POST
+	~PUSH
+	~HEAD
+}
+
+
+// question: 11982  name: op-01-02-16
+::op-01-02-16::[html]<p>Виберіть атрибуту тегу &lt;input&gt;, що відповідає за вигляд та функції елемента керування</p>{
+	=type
+	~id
+	~class
+	~href
+}
+
+
+// question: 11983  name: op-01-02-17
+::op-01-02-17::[html]<p>Виберіть атрибуту тегу &lt;input&gt;, що відповідає за вигляд та функції елемента керування</p>{
+	=type
+	~name
+	~class
+	~value
+}
+
+
+// question: 11984  name: op-01-02-18
+::op-01-02-18::[html]<p>Виберіть значення атрибуту <code>type</code> тегу &lt;input&gt;, що НЕ створює елемент у вигляді кнопки</p>{
+	=number
+	~reset
+	~submit
+	~button
+}
+
+
+// question: 11985  name: op-01-02-19
+::op-01-02-19::[html]<p>Виберіть значення атрибуту <code>type</code> тегу &lt;input&gt;, що НЕ створює елемент у вигляді кнопки</p>{
+	=color
+	~reset
+	~submit
+	~button
+}
+
+
+// question: 11986  name: op-01-02-20
+::op-01-02-20::[html]<p>Виберіть атрибут тегу &lt;form&gt;, що може містити значення <code>GET</code> або <code>POST</code></p>{
+	=method
+	~action
+	~name
+	~sender
+}
+
+
