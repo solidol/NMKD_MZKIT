@@ -1,0 +1,157 @@
+// question: 0  name: Switch category to $course$/top/OP-02-03
+$CATEGORY: $course$/top/OP-02-03
+
+
+// question: 13160  name: Q-02-03-01
+::Q-02-03-01::[html]Оберіть корректні селектори CSS{
+	~%25%\#myid
+	~%25%.myclass
+	~%25%div
+	~%25%div &gt; p
+}
+
+
+// question: 13161  name: Q-02-03-02
+::Q-02-03-02::[html]Оберіть корректні селектори CSS{
+	~%25%\#h1
+	~%25%h1
+	~%25%div
+	~%25%div &gt; p
+}
+
+
+// question: 13162  name: Q-02-03-03
+::Q-02-03-03::[html]Оберіть корректні селектори CSS{
+	~%33.33333%\#h1
+	~%33.33333%h1
+	~%33.33333%div
+	~%-60%p1
+}
+
+
+// question: 13163  name: Q-02-03-04
+::Q-02-03-04::[html]Оберіть корректні селектори CSS{
+	~%33.33333%p
+	~%33.33333%.class
+	~%33.33333%div
+	~%-60%p1
+}
+
+
+// question: 13164  name: Q-02-03-05
+::Q-02-03-05::[html]Оберіть корректні селектори CSS{
+	~%33.33333%h1
+	~%33.33333%.class
+	~%33.33333%div &gt; .class
+	~%-60%class
+}
+
+
+// question: 13165  name: Q-02-03-06
+::Q-02-03-06::[html]Оберіть корректні селектори CSS{
+	~%50%div &gt; .class
+	~%50%.class
+	~%-40%class
+	~%-40%div &gt; class
+}
+
+
+// question: 13166  name: Q-02-03-07
+::Q-02-03-07::[html]Оберіть корректні селектори CSS{
+	~%50%div.class
+	~%50%h1.class
+	~%-40%class
+	~%-40%div class
+}
+
+
+// question: 13167  name: Q-02-03-08
+::Q-02-03-08::[html]Оберіть корректні властивості CSS для оформлення тексту{
+	~%50%color
+	~%50%font-size
+	~%-40%font-width
+	~%-40%font-color
+}
+
+
+// question: 13168  name: Q-02-03-09
+::Q-02-03-09::[html]Оберіть властивості CSS для оформлення тексту, яких не існуэ{
+	~%100%font-color
+	~%-30%font-size
+	~%-30%font-family
+	~%-30%color
+}
+
+
+// question: 13169  name: Q-02-03-10
+::Q-02-03-10::[html]Оберіть властивості CSS для оформлення тексту, яких не існує{
+	~%100%font-width
+	~%-30%font-size
+	~%-30%font-family
+	~%-30%color
+}
+
+
+// question: 13170  name: Q-02-03-11
+::Q-02-03-11::[html]Оберіть корректні стилі CSS{
+	~%25%font-size\:10px;
+	~%25%color\:red;
+	~%25%width\:100px;
+	~%25%border\:10px;
+}
+
+
+// question: 13171  name: Q-02-03-12
+::Q-02-03-12::[html]Оберіть корректні стилі CSS{
+	~%50%font-family\:"Times New Roman";
+	~%50%color\:\#ABAEAF;
+	~%-40%border-radius\:10;
+	~%-40%padding-down\:10px;
+}
+
+
+// question: 13172  name: Q-02-03-13
+::Q-02-03-13::[html]Оберіть корректні стилі CSS{
+	~%33.33333%color\:\#AEADAF;
+	~%33.33333%border-radius\:10px;
+	~%33.33333%padding-top\:10px;
+	~%-60%color\:\#AEADAEF;
+}
+
+
+// question: 13173  name: Q-02-03-14
+::Q-02-03-14::[html]Оберіть корректні стилі CSS{
+	~%33.33333%border\:2px dotted \#AEADAF;
+	~%33.33333%border-style\:solid;
+	~%33.33333%margin-top\:10px;
+	~%-60%background-color\:\#AEADAEF;
+}
+
+
+// question: 13174  name: Q-02-03-15
+::Q-02-03-15::[html]Оберіть корректні стилі CSS{
+	~%50%margin-top\:0;
+	~%50%float\:left;
+	~%-40%border\:10px;
+	~%-40%padding-top\:10;
+}
+
+
+// question: 13175  name: Q-02-03-16
+::Q-02-03-16::[html]Оберіть корректні стилі CSS{
+	~%100%color\: red;
+	~%-30%font-color\: red;
+	~%-30%bgcolor\: red;
+	~%-30%font-size\:red;
+}
+
+
+// question: 13176  name: Q-02-03-17
+::Q-02-03-17::[html]Оберіть корректні стилі CSS{
+	~%100%float\: left;
+	~%-30%float\: end;
+	~%-30%float\: bottom;
+	~%-30%float\: top;
+}
+
+

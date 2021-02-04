@@ -1,0 +1,202 @@
+// question: 0  name: Switch category to $course$/top/OP-02-02
+$CATEGORY: $course$/top/OP-02-02
+
+
+// question: 13121  name: Q-02-02-01
+::Q-02-02-01::[html]Виберіть атрибут тегу, у якому можуть бути розміщені стилі{
+	=style
+	~styles
+	~css
+	~class
+}
+
+
+// question: 13122  name: Q-02-02-02
+::Q-02-02-02::[html]Виберіть атрибут тегу, у якому можуть бути розміщені стилі{
+	=style
+	~role
+	~css
+	~class
+}
+
+
+// question: 13123  name: Q-02-02-03
+::Q-02-02-03::[html]Виберіть стилі, що мають найвищий пріорітет{
+	=Стилі, що розміщені безпосередньо в елементі
+	~Стилі, що розміщені у зовнішньому файлі
+	~Стилі, що розміщені у секції &lt;style&gt;
+	~Стилі браузеру
+}
+
+
+// question: 13124  name: Q-02-02-04
+::Q-02-02-04::[html]Виберіть стилі, що мають найнижчий пріорітет{
+	~Стилі, що розміщені безпосередньо в елементі
+	~Стилі, що розміщені у зовнішньому файлі
+	~Стилі, що розміщені у секції &lt;style&gt;
+	=Стилі браузеру
+}
+
+
+// question: 13125  name: Q-02-02-05
+::Q-02-02-05::[html]Виберіть стилі, що мають пріорітет нижчий за пріорітет стилей у зовнішньому файлі{
+	~Стилі, що розміщені безпосередньо в елементі
+	~Стилі, що встановлюються тегом &lt;font&gt;
+	~Стилі, що розміщені у секції &lt;style&gt;
+	=Стилі браузеру
+}
+
+
+// question: 13126  name: Q-02-02-06
+::Q-02-02-06::[html]Виберіть правильний формат запису стилів{
+	=властивість\: значення;
+	~властивість\=значення;
+	~властивість(значення);
+	~"властивість"\:"значення";
+}
+
+
+// question: 13127  name: Q-02-02-07
+::Q-02-02-07::[html]Виберіть правильний формат запису стилів{
+	=властивість\: значення;
+	~властивість\=\=значення;
+	~властивість(значення);
+	~"властивість"\:"значення";
+}
+
+
+// question: 13128  name: Q-02-02-08
+::Q-02-02-08::[html]Виберіть правильний варіант встановлення кольору тексту{
+	=color\: \#abc
+	~color\: \#abcd
+	~font-color\: \#abc
+	~font-family\: \#abc
+}
+
+
+// question: 13129  name: Q-02-02-09
+::Q-02-02-09::[html]Виберіть правильний варіант встановлення кольору тексту{
+	=color\: \#abc
+	~color\: \#abcd
+	~font-color\: \#abc
+	~font-style\: \#abc
+}
+
+
+// question: 13130  name: Q-02-02-10
+::Q-02-02-10::[html]Виберіть правильний варіант встановлення кольору фону{
+	=background-color\: \#abc
+	~color\: \#abc
+	~block-color\: \#abc
+	~backgroundColor\: \#abc
+}
+
+
+// question: 13131  name: Q-02-02-11
+::Q-02-02-11::[html]Виберіть правильний варіант встановлення кольору фону{
+	=background-color\: \#abcdef
+	~background-color\: \#abcefg
+	~block-color\: \#abcdef
+	~inner-color\: \#abc
+}
+
+
+// question: 13132  name: Q-02-02-12
+::Q-02-02-12::[html]Виберіть правильний варіант встановлення шрифту тексту{
+	=font-family\: Arial;
+	~font\: Arial;
+	~font-style\: Arial;
+	~text-family\: Arial;
+}
+
+
+// question: 13133  name: Q-02-02-13
+::Q-02-02-13::[html]Оберіть правильний варіант налаштування межі блоку{
+	=border\: 1px solid black;
+	~border\: 1px solid#12AB1AB;
+	~border-style\: 1px solid black;
+	~border-settings\: 1px solid black;
+}
+
+
+// question: 13134  name: Q-02-02-14
+::Q-02-02-14::[html]Оберіть правильний варіант налаштування межі блоку{
+	=border\: 1px solid \#AB110A;#<br>
+	~border\: 1px solid \#12AB1AB;<br>#<br>
+	~border-style\: 1px dotted black;
+	~border-settings\: 1px solid black;
+}
+
+
+// question: 13135  name: Q-02-02-15
+::Q-02-02-15::[html]Оберіть правильний варіант налаштування межі блоку{
+	=border-style\: dotted;
+	~border\: 1px solid#12AB1AB;
+	~border-style\: 1px dotted black;
+	~border-settings\: dotted;
+}
+
+
+// question: 13136  name: Q-02-02-16
+::Q-02-02-16::[html]Оберіть правильний варіант налаштування зовнішніх відступів{
+	=margin\: 10px;
+	~margin\: 10;
+	~padding\: 10px 0 10px 0;
+	~padding\: 10px;
+}
+
+
+// question: 13137  name: Q-02-02-17
+::Q-02-02-17::[html]Оберіть правильний варіант налаштування зовнішніх відступів{
+	=margin\: 10px 10px 5px 0;
+	~margin\: 10 10 5 0;
+	~padding\: 10px 0 10px 0;
+	~padding\: 10px;
+}
+
+
+// question: 13138  name: Q-02-02-18
+::Q-02-02-18::[html]Оберіть правильний варіант налаштування зовнішніх відступів{
+	=margin-left\: 10px;
+	~margin\: 10 10 5 0;
+	~padding\: 10px 0 10px 0;
+	~padding-left\: 10px;
+}
+
+
+// question: 13139  name: Q-02-02-19
+::Q-02-02-19::[html]Оберіть правильний варіант налаштування внутрішніх полів{
+	=padding-left\: 10px;
+	~padding\: 10 10 5 0;
+	~margin\: 10px 0 10px 0;
+	~margin-left\: 10px;
+}
+
+
+// question: 13140  name: Q-02-02-20
+::Q-02-02-20::[html]Оберіть правильний варіант налаштування внутрішніх полів{
+	=padding-top\: 10px;
+	~padding-down\: 10px;
+	~margin\: 10px 0 10px 0;
+	~margin-left\: 10px;
+}
+
+
+// question: 13141  name: Q-02-02-21
+::Q-02-02-21::[html]Оберіть правильний варіант налаштування внутрішніх полів{
+	=padding-top\: 10px;
+	~padding-bottom\: 10;
+	~margin\: 10px 0 10px 0;
+	~margin-left\: 10px;
+}
+
+
+// question: 13142  name: Q-02-02-22
+::Q-02-02-22::[html]Оберіть правильний варіант налаштування внутрішніх полів{
+	=padding\: 10px;
+	~padding-bottom\: 10;
+	~margin\: 10px 0 10px 0;
+	~margin-left\: 10px;
+}
+
+
